@@ -26,30 +26,122 @@ a {
   color: var(--link-color);
 }
 
-/* Themes */
-.theme-light {
-  --bg-color: #f8f9fa;
-  --text-color: #212529;
-  --header-bg: #198754;
+/* ثيم أخضر النعناع */
+.theme-mint {
+  --bg-color: #e8f5e9;
+  --text-color: #1b5e20;
+  --header-bg: #66bb6a;
   --header-text: #ffffff;
   --card-bg: #ffffff;
-  --link-color: #198754;
+  --link-color: #2e7d32;
 }
 
-.theme-dark {
-  --bg-color: #121212;
-  --text-color: #f1f1f1;
-  --header-bg: #333333;
+/* ثيم أخضر الزيتون */
+.theme-olive {
+  --bg-color: #f3f2e9;
+  --text-color: #3e3e2e;
+  --header-bg: #8d9440;
   --header-text: #ffffff;
-  --card-bg: #1e1e1e;
-  --link-color: #90ee90;
+  --card-bg: #fdfcf5;
+  --link-color: #6b8e23;
 }
 
-.theme-sand {
-  --bg-color: #fdf6e3;
-  --text-color: #3e3e3e;
-  --header-bg: #c2b280;
-  --header-text: #000000;
-  --card-bg: #fffef9;
-  --link-color: #b58900;
+/* ثيم أخضر الغابة */
+.theme-forest {
+  --bg-color: #e0f2f1;
+  --text-color: #003300;
+  --header-bg: #004d40;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #00695c;
+}
+
+/* ثيم أخضر زمردي */
+.theme-emerald {
+  --bg-color: #e0f7fa;
+  --text-color: #004d40;
+  --header-bg: #00bfa5;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #00796b;
+}
+
+/* وردي هادئ */
+.theme-rose {
+  --bg-color: #fff5f7;
+  --text-color: #5c1a1a;
+  --header-bg: #f28b82;
+  --header-text: #ffffff;
+  --card-bg: #fffafa;
+  --link-color: #c62828;
+}
+
+/* نبيتي كلاسيكي */
+.theme-burgundy {
+  --bg-color: #fbe9e7;
+  --text-color: #4e1e2a;
+  --header-bg: #800020;
+  --header-text: #ffffff;
+  --card-bg: #fff0f0;
+  --link-color: #a52a2a;
+}
+
+/* أحمر رمّاني */
+.theme-pomegranate {
+  --bg-color: #fdf2f2;
+  --text-color: #6e0f0f;
+  --header-bg: #c62828;
+  --header-text: #ffffff;
+  --card-bg: #fff5f5;
+  --link-color: #b71c1c;
+}
+
+/* أحمر طوبي */
+.theme-terra {
+  --bg-color: #fef3ec;
+  --text-color: #5a2e1f;
+  --header-bg: #a0522d;
+  --header-text: #ffffff;
+  --card-bg: #fff8f4;
+  --link-color: #8b4513;
+}
+
+/* أزرق سماوي */
+.theme-sky {
+  --bg-color: #e3f2fd;
+  --text-color: #0d47a1;
+  --header-bg: #64b5f6;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #1565c0;
+}
+
+/* أزرق ملكي */
+.theme-royal {
+  --bg-color: #e8eaf6;
+  --text-color: #1a237e;
+  --header-bg: #3f51b5;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #3949ab;
+}
+
+/* أزرق داكن */
+.theme-navy {
+  --bg-color: #e0e7f1;
+  --text-color: #0a192f;
+  --header-bg: #001f3f;
+  --header-text: #ffffff;
+  --card-bg: #f5f8fc;
+  --link-color: #0074d9;
+}
+
+/* أزرق رمادي */
+.theme-slate {
+  --bg-color: #f0f4f8;
+  --text-color: #2c3e50;
+  --header-bg: #607d8b;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #455a64;
 }
