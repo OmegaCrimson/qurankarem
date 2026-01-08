@@ -145,3 +145,107 @@ a {
   --card-bg: #ffffff;
   --link-color: #455a64;
 }
+.theme-forest-dark {
+  --bg-color: #0d1f1a;
+  --text-color: #c8e6c9;
+  --header-bg: #1b5e20;
+  --header-text: #ffffff;
+  --card-bg: #1a2e2a;
+  --link-color: #81c784;
+}
+
+.theme-olive-dark {
+  --bg-color: #2e2e1e;
+  --text-color: #e6e6cc;
+  --header-bg: #6b8e23;
+  --header-text: #ffffff;
+  --card-bg: #3a3a2a;
+  --link-color: #cddc39;
+}
+
+.theme-emerald-dark {
+  --bg-color: #00332e;
+  --text-color: #b2dfdb;
+  --header-bg: #00796b;
+  --header-text: #ffffff;
+  --card-bg: #004d40;
+  --link-color: #4db6ac;
+}
+.theme-burgundy-dark {
+  --bg-color: #2a0e14;
+  --text-color: #f8d7da;
+  --header-bg: #800020;
+  --header-text: #ffffff;
+  --card-bg: #3e1a1f;
+  --link-color: #ef5350;
+}
+
+.theme-terra-dark {
+  --bg-color: #3b1f14;
+  --text-color: #ffe0b2;
+  --header-bg: #a0522d;
+  --header-text: #ffffff;
+  --card-bg: #4e2a1e;
+  --link-color: #ff7043;
+}
+
+.theme-ruby-dark {
+  --bg-color: #2b0d0d;
+  --text-color: #fddede;
+  --header-bg: #9b111e;
+  --header-text: #ffffff;
+  --card-bg: #3a1a1a;
+  --link-color: #e57373;
+}
+.theme-navy-dark {
+  --bg-color: #0a192f;
+  --text-color: #bbdefb;
+  --header-bg: #001f3f;
+  --header-text: #ffffff;
+  --card-bg: #102840;
+  --link-color: #64b5f6;
+}
+
+.theme-royal-dark {
+  --bg-color: #1a237e;
+  --text-color: #e8eaf6;
+  --header-bg: #3f51b5;
+  --header-text: #ffffff;
+  --card-bg: #2c387e;
+  --link-color: #7986cb;
+}
+
+.theme-slate-dark {
+  --bg-color: #263238;
+  --text-color: #eceff1;
+  --header-bg: #37474f;
+  --header-text: #ffffff;
+  --card-bg: #37474f;
+  --link-color: #90a4ae;
+}
+.theme-sand {
+  --bg-color: #fdf6e3;
+  --text-color: #3e3e3e;
+  --header-bg: #c2b280;
+  --header-text: #000000;
+  --card-bg: #fffef9;
+  --link-color: #b58900;
+}
+
+.theme-lavender {
+  --bg-color: #f3e5f5;
+  --text-color: #4a148c;
+  --header-bg: #ba68c8;
+  --header-text: #ffffff;
+  --card-bg: #ffffff;
+  --link-color: #8e24aa;
+}
+
+.theme-cocoa {
+  --bg-color: #fbeee6;
+  --text-color: #4e342e;
+  --header-bg: #6d4c41;
+  --header-text: #ffffff;
+  --card-bg: #fff8f5;
+  --link-color: #8d6e63;
+}
