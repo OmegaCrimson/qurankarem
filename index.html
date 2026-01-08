@@ -25,7 +25,7 @@
 
   <script>
     // Load surahs from data.json
-    fetch('/data.json')
+    fetch('data.json')
       .then(res => res.json())
       .then(data => {
         const list = document.getElementById('surah-list');
@@ -33,12 +33,13 @@
           const li = document.createElement('li');
           li.className = 'list-group-item';
           li.innerHTML = `
-            <a href="/surah.html?id=${surah.id}" class="text-success fw-bold">
+            <a href="surah.html?id=${surah.id}" class="text-success fw-bold">
               سورة ${surah.name} (${surah.ayahs} آية)
             </a>`;
           list.appendChild(li);
         });
       });
+
 
     // Current year
     document.getElementById('year').textContent = new Date().getFullYear();
