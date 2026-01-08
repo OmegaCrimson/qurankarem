@@ -35,25 +35,19 @@
   <script>
     const params = new URLSearchParams(window.location.search);
     const surahId = parseInt(params.get('id'));
-    const reciterKey = params.get('reciter') || 'bader';
+    const reciterId = params.get('reciter') || localStorage.getItem('selectedReciter') || 'bader-hafs';
 
-    const reciterBaseURLs = {
-      bader: 'https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/',
-      husary: 'https://server13.mp3quran.net/husr/',
-      minshawi: 'https://server10.mp3quran.net/minsh/'
-    };
+    let reciterInfo = null;
 
-    const reciterNames = {
-      bader: 'بدر التركي - حفص عن عاصم',
-      husary: 'الحصري - حفص عن عاصم',
-      minshawi: 'المنشاوي - حفص عن عاصم'
-    };
-
-    const reciterName = reciterNames[reciterKey] || 'بدر التركي';
-    document.getElementById('reciter-name').textContent = reciterName;
-    document.getElementById('reciter-footer').textContent = reciterName;
-
-    fetch('data.json')
+    fetch('reciters.json')
+      .then(res => res.json())
+      .then(data => {
+        reciterInfo = data.reciters.find(r => r.id === reciterId) || data.reciters[0];
+        document.getElementById('reciter-name').textContent = reciterInfo.reciter;
+        document.getElementById('reciter-footer').textContent = reciterInfo.reciter;
+        localStorage.setItem('selectedReciter', reciterInfo.id);
+        return fetch('data.json');
+      })
       .then(res => res.json())
       .then(data => {
         const surah = data.surahs.find(s => s.id === surahId);
@@ -72,12 +66,12 @@
           <li class="list-group-item">نوعها: ${surah.type}</li>
           <li class="list-group-item">أسماء أخرى: ${surah.other_names.join(", ")}</li>
           <li class="list-group-item">الموضوعات: ${surah.topics.join(", ")}</li>
+          <li class="list-group-item">الرواية: ${reciterInfo.riwaya}</li>
         `;
 
         const audio = document.getElementById('surah-audio');
         const paddedId = String(surah.id).padStart(3, '0');
-        const baseURL = reciterBaseURLs[reciterKey] || reciterBaseURLs['bader'];
-        audio.src = `${baseURL}${paddedId}.mp3`;
+        audio.src = `${reciterInfo.baseURL}${paddedId}.mp3`;
         audio.dataset.surahId = surah.id;
       });
 
@@ -106,4 +100,3 @@
   </script>
 </body>
 </html>
-
