@@ -233,17 +233,25 @@ a {
   --card-bg: #fff8f5;
   --link-color: #8d6e63;
 }
+
+/* ========================= */
+/* 📖 تنسيق الآيات داخل البطاقات */
+/* ========================= */
 .verses {
+  font-family: 'Tajawal', sans-serif;
   border-radius: 0.5rem;
   line-height: 2.2;
   font-size: 1.4rem;
   margin-top: 2rem;
+  padding: 1.5rem;
   color: var(--text-color);
   background-color: var(--card-bg);
 }
 
 .verses .ayah {
   margin-bottom: 1rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.05);
 }
 
 .verses .ayah span {
