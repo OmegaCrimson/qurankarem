@@ -1,0 +1,1030 @@
+{
+  "surahs": [
+    {
+        "id": 1,
+        "name": "الفاتحة",
+        "ayahs": 7,
+        "type": "مكية",
+        "other_names": ["أم الكتاب", "السبع المثاني", "الحمد"],
+        "topics": ["التوحيد", "الاستعانة", "الهداية", "الدعاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/001.mp3"
+    },
+    {
+        "id": 2,
+        "name": "البقرة",
+        "ayahs": 286,
+        "type": "مدنية",
+        "other_names": ["الزهراء", "سنام القرآن"],
+        "topics": ["التشريع", "الإيمان", "القصص", "الإنفاق", "الجهاد", "التوحيد"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/002.mp3"
+    },
+    {
+        "id": 3,
+        "name": "آل عمران",
+        "ayahs": 200,
+        "type": "مدنية",
+        "other_names": ["آل عمران"],
+        "topics": ["التوحيد", "الثبات", "غزوة أحد", "أهل الكتاب", "الإنفاق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/003.mp3"
+    },
+    {
+        "id": 4,
+        "name": "النساء",
+        "ayahs": 176,
+        "type": "مدنية",
+        "other_names": ["النساء"],
+        "topics": ["أحكام الأسرة", "المواريث", "الجهاد", "المنافقين", "العدل"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/004.mp3"
+    },
+    {
+        "id": 5,
+        "name": "المائدة",
+        "ayahs": 120,
+        "type": "مدنية",
+        "other_names": ["العقود"],
+        "topics": ["الحلال والحرام", "الوفاء بالعقود", "أهل الكتاب", "المائدة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/005.mp3"
+    },
+    {
+        "id": 6,
+        "name": "الأنعام",
+        "ayahs": 165,
+        "type": "مكية",
+        "other_names": ["الأنعام"],
+        "topics": ["التوحيد", "الرد على المشركين", "دلائل القدرة", "الحلال والحرام"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/006.mp3"
+    },
+    {
+        "id": 7,
+        "name": "الأعراف",
+        "ayahs": 206,
+        "type": "مكية",
+        "other_names": ["الأعراف"],
+        "topics": ["قصص الأنبياء", "الصراع بين الحق والباطل", "يوم القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/007.mp3"
+    },
+    {
+        "id": 8,
+        "name": "الأنفال",
+        "ayahs": 75,
+        "type": "مدنية",
+        "other_names": ["بدر"],
+        "topics": ["غنائم بدر", "الجهاد", "الطاعة", "النصر", "صفات المؤمنين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/008.mp3"
+    },
+    {
+        "id": 9,
+        "name": "التوبة",
+        "ayahs": 129,
+        "type": "مدنية",
+        "other_names": ["براءة", "الفاضحة", "المقشقشة"],
+        "topics": ["البراءة من المشركين", "غزوة تبوك", "فضح المنافقين", "التوبة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/009.mp3"
+    },
+    {
+        "id": 10,
+        "name": "يونس",
+        "ayahs": 109,
+        "type": "مكية",
+        "other_names": ["يونس"],
+        "topics": ["التوحيد", "الوحي", "قصص الأنبياء", "دعوة نوح وموسى ويونس"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/010.mp3"
+    },
+    {
+        "id": 11,
+        "name": "هود",
+        "ayahs": 123,
+        "type": "مكية",
+        "other_names": ["هود"],
+        "topics": ["قصص الأنبياء", "الثبات على الحق", "عاقبة المكذبين", "التوكل على الله"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/011.mp3"
+    },
+    {
+        "id": 12,
+        "name": "يوسف",
+        "ayahs": 111,
+        "type": "مكية",
+        "other_names": ["أحسن القصص"],
+        "topics": ["قصة يوسف عليه السلام", "الابتلاء", "الصبر", "العفو", "التمكين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/012.mp3"
+    },
+    {
+        "id": 13,
+        "name": "الرعد",
+        "ayahs": 43,
+        "type": "مدنية",
+        "other_names": ["الرعد"],
+        "topics": ["دلائل التوحيد", "مشاهد من الطبيعة", "الوحي", "الثبات", "مصير الأمم"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/013.mp3"
+    },
+    {
+        "id": 14,
+        "name": "إبراهيم",
+        "ayahs": 52,
+        "type": "مكية",
+        "other_names": ["إبراهيم"],
+        "topics": ["رسالة الأنبياء", "دعوة إبراهيم", "الشكر والنكران", "مشاهد من يوم القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/014.mp3"
+    },
+    {
+        "id": 15,
+        "name": "الحجر",
+        "ayahs": 99,
+        "type": "مكية",
+        "other_names": ["الحجر"],
+        "topics": ["حفظ القرآن", "خلق الإنسان", "إبليس", "قصص أقوام سابقة", "التهديد والوعيد"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/015.mp3"
+    },
+    {
+        "id": 16,
+        "name": "النحل",
+        "ayahs": 128,
+        "type": "مكية",
+        "other_names": ["النعم"],
+        "topics": ["نعم الله", "التوحيد", "الحلال والحرام", "الهجرة", "الصبر", "الوحي"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/016.mp3"
+    },
+    {
+        "id": 17,
+        "name": "الإسراء",
+        "ayahs": 111,
+        "type": "مكية",
+        "other_names": ["بني إسرائيل"],
+        "topics": ["الإسراء والمعراج", "القرآن", "التوحيد", "الأخلاق", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/017.mp3"
+    },
+    {
+        "id": 18,
+        "name": "الكهف",
+        "ayahs": 110,
+        "type": "مكية",
+        "other_names": ["الكهف"],
+        "topics": ["أصحاب الكهف", "موسى والخضر", "ذو القرنين", "الفتنة بالعلم والمال"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/018.mp3"
+    },
+    {
+        "id": 19,
+        "name": "مريم",
+        "ayahs": 98,
+        "type": "مكية",
+        "other_names": ["مريم"],
+        "topics": ["مريم وعيسى", "زكريا ويحيى", "إبراهيم", "التوحيد", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/019.mp3"
+    },
+    {
+        "id": 20,
+        "name": "طه",
+        "ayahs": 135,
+        "type": "مكية",
+        "other_names": ["طه"],
+        "topics": ["قصة موسى", "الوحي", "التوحيد", "القرآن", "يوم القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/020.mp3"
+    },
+    {
+        "id": 21,
+        "name": "الأنبياء",
+        "ayahs": 112,
+        "type": "مكية",
+        "other_names": ["الأنبياء"],
+        "topics": ["وحدة الرسالة", "قصص الأنبياء", "البعث", "التوحيد", "الرحمة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/021.mp3"
+    },
+    {
+        "id": 22,
+        "name": "الحج",
+        "ayahs": 78,
+        "type": "مدنية",
+        "other_names": ["الحج"],
+        "topics": ["أهوال القيامة", "الحج", "الجهاد", "التوحيد", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/022.mp3"
+    },
+    {
+        "id": 23,
+        "name": "المؤمنون",
+        "ayahs": 118,
+        "type": "مكية",
+        "other_names": ["المؤمنون"],
+        "topics": ["صفات المؤمنين", "خلق الإنسان", "قصص الأنبياء", "التوحيد", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/023.mp3"
+    },
+    {
+        "id": 24,
+        "name": "النور",
+        "ayahs": 64,
+        "type": "مدنية",
+        "other_names": ["النور"],
+        "topics": ["الطهارة", "الزنا", "القذف", "آداب البيوت", "الحجاب", "النور الإلهي"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/024.mp3"
+    },
+    {
+        "id": 25,
+        "name": "الفرقان",
+        "ayahs": 77,
+        "type": "مكية",
+        "other_names": ["الفرقان"],
+        "topics": ["القرآن", "صفات عباد الرحمن", "الرد على المشركين", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/025.mp3"
+    },
+    {
+        "id": 26,
+        "name": "الشعراء",
+        "ayahs": 227,
+        "type": "مكية",
+        "other_names": ["الشعراء"],
+        "topics": ["قصص الأنبياء", "التحدي بالقرآن", "مصير المكذبين", "الشعراء والحق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/026.mp3"
+    },
+    {
+        "id": 27,
+        "name": "النمل",
+        "ayahs": 93,
+        "type": "مكية",
+        "other_names": ["النمل"],
+        "topics": ["قصة سليمان", "النملة", "بلقيس", "موسى", "التوحيد", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/027.mp3"
+    },
+    {
+        "id": 28,
+        "name": "القصص",
+        "ayahs": 88,
+        "type": "مكية",
+        "other_names": ["القصص"],
+        "topics": ["قصة موسى", "فرعون", "قارون", "الهجرة", "التوحيد"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/028.mp3"
+    },
+    {
+        "id": 29,
+        "name": "العنكبوت",
+        "ayahs": 69,
+        "type": "مكية",
+        "other_names": ["العنكبوت"],
+        "topics": ["الابتلاء", "الإيمان", "قصص الأنبياء", "هشاشة الباطل"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/029.mp3"
+    },
+    {
+        "id": 30,
+        "name": "الروم",
+        "ayahs": 60,
+        "type": "مكية",
+        "other_names": ["الروم"],
+        "topics": ["انتصار الروم", "دلائل التوحيد", "البعث", "الفطرة", "مصير الأمم"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/030.mp3"
+    },
+    {
+        "id": 31,
+        "name": "لقمان",
+        "ayahs": 34,
+        "type": "مكية",
+        "other_names": ["لقمان"],
+        "topics": ["الحكمة", "بر الوالدين", "التوحيد", "مراقبة الله", "العلم بالغيب"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/031.mp3"
+    },
+    {
+        "id": 32,
+        "name": "السجدة",
+        "ayahs": 30,
+        "type": "مكية",
+        "other_names": ["ألم السجدة"],
+        "topics": ["الوحي", "خلق الإنسان", "البعث", "مصير المؤمنين والكافرين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/032.mp3"
+    },
+    {
+        "id": 33,
+        "name": "الأحزاب",
+        "ayahs": 73,
+        "type": "مدنية",
+        "other_names": ["الأحزاب"],
+        "topics": ["غزوة الأحزاب", "الحجاب", "أزواج النبي", "المنافقين", "الأمانة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/033.mp3"
+    },
+    {
+        "id": 34,
+        "name": "سبأ",
+        "ayahs": 54,
+        "type": "مكية",
+        "other_names": ["سبأ"],
+        "topics": ["نعم الله", "داوود وسليمان", "قوم سبأ", "البعث", "التوحيد"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/034.mp3"
+    },
+    {
+        "id": 35,
+        "name": "فاطر",
+        "ayahs": 45,
+        "type": "مكية",
+        "other_names": ["الملائكة"],
+        "topics": ["خلق السماوات", "العلم", "التوحيد", "جزاء المؤمنين والكافرين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/035.mp3"
+    },
+    {
+        "id": 36,
+        "name": "يس",
+        "ayahs": 83,
+        "type": "مكية",
+        "other_names": ["قلب القرآن"],
+        "topics": ["الرسالة", "البعث", "دلائل القدرة", "مصير المكذبين", "الجنة والنار"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/036.mp3"
+    },
+    {
+        "id": 37,
+        "name": "الصافات",
+        "ayahs": 182,
+        "type": "مكية",
+        "other_names": ["الصافات"],
+        "topics": ["التوحيد", "الملائكة", "قصص الأنبياء", "مصير المكذبين", "الجنة والنار"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/037.mp3"
+    },
+    {
+        "id": 38,
+        "name": "ص",
+        "ayahs": 88,
+        "type": "مكية",
+        "other_names": ["ص"],
+        "topics": ["التوحيد", "داوود وسليمان وأيوب", "إبليس", "مصير المتقين والمكذبين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/038.mp3"
+    },
+    {
+        "id": 39,
+        "name": "الزمر",
+        "ayahs": 75,
+        "type": "مكية",
+        "other_names": ["الزمر"],
+        "topics": ["الإخلاص", "التوحيد", "البعث", "مصير المؤمنين والكافرين", "مشاهد من القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/039.mp3"
+    },
+    {
+        "id": 40,
+        "name": "غافر",
+        "ayahs": 85,
+        "type": "مكية",
+        "other_names": ["المؤمن", "الطول", "حم الأولى"],
+        "topics": ["صفات الله", "دعوة موسى", "مؤمن آل فرعون", "الجدل في الحق", "عاقبة المكذبين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/040.mp3"
+    },
+    {
+        "id": 41,
+        "name": "فصلت",
+        "ayahs": 54,
+        "type": "مكية",
+        "other_names": ["حم السجدة"],
+        "topics": ["القرآن", "دلائل التوحيد", "مصير المكذبين", "مشاهد القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/041.mp3"
+    },
+    {
+        "id": 42,
+        "name": "الشورى",
+        "ayahs": 53,
+        "type": "مكية",
+        "other_names": ["الشورى"],
+        "topics": ["الوحي", "التوحيد", "الشورى", "البعث", "مصير الأمم"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/042.mp3"
+    },
+    {
+        "id": 43,
+        "name": "الزخرف",
+        "ayahs": 89,
+        "type": "مكية",
+        "other_names": ["الزخرف"],
+        "topics": ["القرآن", "التوحيد", "الرد على الشرك", "عيسى عليه السلام", "مصير المكذبين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/043.mp3"
+    },
+    {
+        "id": 44,
+        "name": "الدخان",
+        "ayahs": 59,
+        "type": "مكية",
+        "other_names": ["الدخان"],
+        "topics": ["ليلة القدر", "فرعون", "البعث", "مصير الكافرين", "الجنة والنار"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/044.mp3"
+    },
+    {
+        "id": 45,
+        "name": "الجاثية",
+        "ayahs": 37,
+        "type": "مكية",
+        "other_names": ["الشريعة"],
+        "topics": ["دلائل التوحيد", "مصير الأمم", "الجاثية يوم القيامة", "الشريعة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/045.mp3"
+    },
+    {
+        "id": 46,
+        "name": "الأحقاف",
+        "ayahs": 35,
+        "type": "مكية",
+        "other_names": ["الأحقاف"],
+        "topics": ["قوم عاد", "الوحي", "بر الوالدين", "مصير المكذبين", "الجن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/046.mp3"
+    },
+    {
+        "id": 47,
+        "name": "محمد",
+        "ayahs": 38,
+        "type": "مدنية",
+        "other_names": ["محمد"],
+        "topics": ["الجهاد", "المنافقين", "القتال", "الجزاء", "القرآن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/047.mp3"
+    },
+    {
+        "id": 48,
+        "name": "الفتح",
+        "ayahs": 29,
+        "type": "مدنية",
+        "other_names": ["الفتح"],
+        "topics": ["صلح الحديبية", "النصر", "صفات المؤمنين", "البيعة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/048.mp3"
+    },
+    {
+        "id": 49,
+        "name": "الحجرات",
+        "ayahs": 18,
+        "type": "مدنية",
+        "other_names": ["الحجرات"],
+        "topics": ["الأخلاق", "الأدب مع النبي", "الإيمان", "الإخوة", "العدل"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/049.mp3"
+    },
+    {
+        "id": 50,
+        "name": "ق",
+        "ayahs": 45,
+        "type": "مكية",
+        "other_names": ["ق"],
+        "topics": ["البعث", "دلائل القدرة", "القرآن", "مصير المكذبين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/050.mp3"
+    },
+    {
+        "id": 51,
+        "name": "الذاريات",
+        "ayahs": 60,
+        "type": "مكية",
+        "other_names": ["الذاريات"],
+        "topics": ["دلائل القدرة", "البعث", "قصص الأنبياء", "مصير المكذبين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/051.mp3"
+    },
+    {
+        "id": 52,
+        "name": "الطور",
+        "ayahs": 49,
+        "type": "مكية",
+        "other_names": ["الطور"],
+        "topics": ["البعث", "الجنة والنار", "القرآن", "الرسالة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/052.mp3"
+    },
+    {
+        "id": 53,
+        "name": "النجم",
+        "ayahs": 62,
+        "type": "مكية",
+        "other_names": ["النجم"],
+        "topics": ["الوحي", "الإسراء والمعراج", "الرد على المشركين", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/053.mp3"
+    },
+    {
+        "id": 54,
+        "name": "القمر",
+        "ayahs": 55,
+        "type": "مكية",
+        "other_names": ["القمر"],
+        "topics": ["انشقاق القمر", "قصص الأنبياء", "مصير المكذبين", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/054.mp3"
+    },
+    {
+        "id": 55,
+        "name": "الرحمن",
+        "ayahs": 78,
+        "type": "مدنية",
+        "other_names": ["الرحمن"],
+        "topics": ["نعم الله", "الخلق", "الجنة والنار", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/055.mp3"
+    },
+    {
+        "id": 56,
+        "name": "الواقعة",
+        "ayahs": 96,
+        "type": "مكية",
+        "other_names": ["الواقعة"],
+        "topics": ["البعث", "الجنة والنار", "القرآن", "القدرة الإلهية"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/056.mp3"
+    },
+    {
+        "id": 57,
+        "name": "الحديد",
+        "ayahs": 29,
+        "type": "مدنية",
+        "other_names": ["الحديد"],
+        "topics": ["الإيمان", "الإنفاق", "الجهاد", "الآخرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/057.mp3"
+    },
+    {
+        "id": 58,
+        "name": "المجادلة",
+        "ayahs": 22,
+        "type": "مدنية",
+        "other_names": ["المجادلة"],
+        "topics": ["أحكام الأسرة", "المنافقين", "الطاعة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/058.mp3"
+    },
+    {
+        "id": 59,
+        "name": "الحشر",
+        "ayahs": 24,
+        "type": "مدنية",
+        "other_names": ["الحشر"],
+        "topics": ["غزوة بني النضير", "صفات الله", "المنافقين", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/059.mp3"
+    },
+    {
+        "id": 60,
+        "name": "الممتحنة",
+        "ayahs": 13,
+        "type": "مدنية",
+        "other_names": ["الممتحنة"],
+        "topics": ["العلاقات مع الكفار", "الولاء والبراء", "الطاعة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/060.mp3"
+    },
+    {
+        "id": 61,
+        "name": "الصف",
+        "ayahs": 14,
+        "type": "مدنية",
+        "other_names": ["الصف"],
+        "topics": ["الجهاد", "الطاعة", "النصر", "الصدق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/061.mp3"
+    },
+    {
+        "id": 62,
+        "name": "الجمعة",
+        "ayahs": 11,
+        "type": "مدنية",
+        "other_names": ["الجمعة"],
+        "topics": ["الجمعة", "الطاعة", "الإنفاق", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/062.mp3"
+    },
+    {
+        "id": 63,
+        "name": "المنافقون",
+        "ayahs": 11,
+        "type": "مدنية",
+        "other_names": ["المنافقون"],
+        "topics": ["النفاق", "الطاعة", "الجزاء", "الإنفاق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/063.mp3"
+    },
+    {
+        "id": 64,
+        "name": "التغابن",
+        "ayahs": 18,
+        "type": "مدنية",
+        "other_names": ["التغابن"],
+        "topics": ["البعث", "الإيمان", "الإنفاق", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/064.mp3"
+    },
+    {
+        "id": 65,
+        "name": "الطلاق",
+        "ayahs": 12,
+        "type": "مدنية",
+        "other_names": ["الطلاق"],
+        "topics": ["أحكام الطلاق", "الأسرة", "النفقة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/065.mp3"
+    },
+    {
+        "id": 66,
+        "name": "التحريم",
+        "ayahs": 12,
+        "type": "مدنية",
+        "other_names": ["التحريم"],
+        "topics": ["أحكام الأسرة", "النفاق", "الطاعة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/066.mp3"
+    },
+    {
+        "id": 67,
+        "name": "الملك",
+        "ayahs": 30,
+        "type": "مكية",
+        "other_names": ["تبارك"],
+        "topics": ["دلائل القدرة", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/067.mp3"
+    },
+    {
+        "id": 68,
+        "name": "القلم",
+        "ayahs": 52,
+        "type": "مكية",
+        "other_names": ["ن"],
+        "topics": ["الوحي", "الأخلاق", "الجزاء", "قصص الأنبياء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/068.mp3"
+    },
+    {
+        "id": 69,
+        "name": "الحاقة",
+        "ayahs": 52,
+        "type": "مكية",
+        "other_names": ["الحاقة"],
+        "topics": ["البعث", "الجزاء", "قصص الأقوام", "القرآن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/069.mp3"
+    },
+    {
+        "id": 70,
+        "name": "المعارج",
+        "ayahs": 44,
+        "type": "مكية",
+        "other_names": ["سأل سائل"],
+        "topics": ["البعث", "الجزاء", "صفات المؤمنين والكافرين"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/070.mp3"
+    },
+    {
+        "id": 71,
+        "name": "نوح",
+        "ayahs": 28,
+        "type": "مكية",
+        "other_names": ["نوح"],
+        "topics": ["دعوة نوح", "الصبر", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/071.mp3"
+    },
+    {
+        "id": 72,
+        "name": "الجن",
+        "ayahs": 28,
+        "type": "مكية",
+        "other_names": ["الجن"],
+        "topics": ["الجن", "الوحي", "التوحيد", "الطاعة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/072.mp3"
+    },
+    {
+        "id": 73,
+        "name": "المزمل",
+        "ayahs": 20,
+        "type": "مكية",
+        "other_names": ["المزمل"],
+        "topics": ["العبادة", "الصلاة", "الصبر", "الدعوة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/073.mp3"
+    },
+    {
+        "id": 74,
+        "name": "المدثر",
+        "ayahs": 56,
+        "type": "مكية",
+        "other_names": ["المدثر"],
+        "topics": ["الدعوة", "الإنذار", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/074.mp3"
+    },
+    {
+        "id": 75,
+        "name": "القيامة",
+        "ayahs": 40,
+        "type": "مكية",
+        "other_names": ["القيامة"],
+        "topics": ["البعث", "الجزاء", "القرآن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/075.mp3"
+    },
+    {
+        "id": 76,
+        "name": "الإنسان",
+        "ayahs": 31,
+        "type": "مدنية",
+        "other_names": ["الدهر"],
+        "topics": ["الخلق", "الجزاء", "الجنة والنار"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/076.mp3"
+    },
+    {
+        "id": 77,
+        "name": "المرسلات",
+        "ayahs": 50,
+        "type": "مكية",
+        "other_names": ["المرسلات"],
+        "topics": ["البعث", "الجزاء", "القرآن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/077.mp3"
+    },
+    {
+        "id": 78,
+        "name": "النبأ",
+        "ayahs": 40,
+        "type": "مكية",
+        "other_names": ["عم"],
+        "topics": ["البعث", "الجزاء", "دلائل القدرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/078.mp3"
+    },
+    {
+        "id": 79,
+        "name": "النازعات",
+        "ayahs": 46,
+        "type": "مكية",
+        "other_names": ["النازعات"],
+        "topics": ["البعث", "الجزاء", "قصة موسى"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/079.mp3"
+    },
+    {
+        "id": 80,
+        "name": "عبس",
+        "ayahs": 42,
+        "type": "مكية",
+        "other_names": ["عبس"],
+        "topics": ["القرآن", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/080.mp3"
+    },
+    {
+        "id": 81,
+        "name": "التكوير",
+        "ayahs": 29,
+        "type": "مكية",
+        "other_names": ["التكوير"],
+        "topics": ["أهوال القيامة", "الوحي", "القرآن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/081.mp3"
+    },
+    {
+        "id": 82,
+        "name": "الإنفطار",
+        "ayahs": 19,
+        "type": "مكية",
+        "other_names": ["الإنفطار"],
+        "topics": ["أهوال القيامة", "الجزاء", "الملائكة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/082.mp3"
+    },
+    {
+        "id": 83,
+        "name": "المطففين",
+        "ayahs": 36,
+        "type": "مكية",
+        "other_names": ["المطففين"],
+        "topics": ["العدل", "الجزاء", "الجنة والنار"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/083.mp3"
+    },
+    {
+        "id": 84,
+        "name": "الإنشقاق",
+        "ayahs": 25,
+        "type": "مكية",
+        "other_names": ["الإنشقاق"],
+        "topics": ["أهوال القيامة", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/084.mp3"
+    },
+    {
+        "id": 85,
+        "name": "البروج",
+        "ayahs": 22,
+        "type": "مكية",
+        "other_names": ["البروج"],
+        "topics": ["أصحاب الأخدود", "الجزاء", "دلائل القدرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/085.mp3"
+    },
+    {
+        "id": 86,
+        "name": "الطارق",
+        "ayahs": 17,
+        "type": "مكية",
+        "other_names": ["الطارق"],
+        "topics": ["دلائل القدرة", "البعث", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/086.mp3"
+    },
+    {
+        "id": 87,
+        "name": "الأعلى",
+        "ayahs": 19,
+        "type": "مكية",
+        "other_names": ["الأعلى"],
+        "topics": ["التوحيد", "العبادة", "الوحي", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/087.mp3"
+    },
+    {
+        "id": 88,
+        "name": "الغاشية",
+        "ayahs": 26,
+        "type": "مكية",
+        "other_names": ["الغاشية"],
+        "topics": ["أهوال القيامة", "الجنة والنار", "دلائل القدرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/088.mp3"
+    },
+    {
+        "id": 89,
+        "name": "الفجر",
+        "ayahs": 30,
+        "type": "مكية",
+        "other_names": ["الفجر"],
+        "topics": ["الأمم السابقة", "الجزاء", "القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/089.mp3"
+    },
+    {
+        "id": 90,
+        "name": "البلد",
+        "ayahs": 20,
+        "type": "مكية",
+        "other_names": ["البلد"],
+        "topics": ["الابتلاء", "الجزاء", "الأخلاق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/090.mp3"
+    },
+    {
+        "id": 91,
+        "name": "الشمس",
+        "ayahs": 15,
+        "type": "مكية",
+        "other_names": ["الشمس"],
+        "topics": ["دلائل القدرة", "النفوس", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/091.mp3"
+    },
+    {
+        "id": 92,
+        "name": "الليل",
+        "ayahs": 21,
+        "type": "مكية",
+        "other_names": ["الليل"],
+        "topics": ["الإنفاق", "الجزاء", "الأخلاق"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/092.mp3"
+    },
+    {
+        "id": 93,
+        "name": "الضحى",
+        "ayahs": 11,
+        "type": "مكية",
+        "other_names": ["الضحى"],
+        "topics": ["الرسالة", "الرحمة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/093.mp3"
+    },
+    {
+        "id": 94,
+        "name": "الشرح",
+        "ayahs": 8,
+        "type": "مكية",
+        "other_names": ["ألم نشرح"],
+        "topics": ["الرسالة", "الرحمة", "الصبر"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/094.mp3"
+    },
+    {
+        "id": 95,
+        "name": "التين",
+        "ayahs": 8,
+        "type": "مكية",
+        "other_names": ["التين"],
+        "topics": ["الخلق", "الجزاء", "البعث"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/095.mp3"
+    },
+    {
+        "id": 96,
+        "name": "العلق",
+        "ayahs": 19,
+        "type": "مكية",
+        "other_names": ["اقرأ"],
+        "topics": ["الوحي", "العبادة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/096.mp3"
+    },
+    {
+        "id": 97,
+        "name": "القدر",
+        "ayahs": 5,
+        "type": "مكية",
+        "other_names": ["ليلة القدر"],
+        "topics": ["الوحي", "ليلة القدر", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/097.mp3"
+    },
+    {
+        "id": 98,
+        "name": "البينة",
+        "ayahs": 8,
+        "type": "مدنية",
+        "other_names": ["البينة"],
+        "topics": ["الوحي", "الإيمان", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/098.mp3"
+    },
+    {
+        "id": 99,
+        "name": "الزلزلة",
+        "ayahs": 8,
+        "type": "مدنية",
+        "other_names": ["الزلزلة"],
+        "topics": ["أهوال القيامة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/099.mp3"
+    },
+    {
+        "id": 100,
+        "name": "العاديات",
+        "ayahs": 11,
+        "type": "مكية",
+        "other_names": ["العاديات"],
+        "topics": ["الجهاد", "الجزاء", "القيامة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/100.mp3"
+    },
+    {
+        "id": 101,
+        "name": "القارعة",
+        "ayahs": 11,
+        "type": "مكية",
+        "other_names": ["القارعة"],
+        "topics": ["أهوال القيامة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/101.mp3"
+    },
+    {
+        "id": 102,
+        "name": "التكاثر",
+        "ayahs": 8,
+        "type": "مكية",
+        "other_names": ["التكاثر"],
+        "topics": ["الدنيا", "الجزاء", "الآخرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/102.mp3"
+    },
+    {
+        "id": 103,
+        "name": "العصر",
+        "ayahs": 3,
+        "type": "مكية",
+        "other_names": ["العصر"],
+        "topics": ["الوقت", "الإيمان", "العمل الصالح"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/103.mp3"
+    },
+    {
+        "id": 104,
+        "name": "الهمزة",
+        "ayahs": 9,
+        "type": "مكية",
+        "other_names": ["الهمزة"],
+        "topics": ["الأخلاق", "الجزاء", "الآخرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/104.mp3"
+    },
+    {
+        "id": 105,
+        "name": "الفيل",
+        "ayahs": 5,
+        "type": "مكية",
+        "other_names": ["الفيل"],
+        "topics": ["قصة أصحاب الفيل", "دلائل القدرة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/105.mp3"
+    },
+    {
+        "id": 106,
+        "name": "قريش",
+        "ayahs": 4,
+        "type": "مكية",
+        "other_names": ["قريش"],
+        "topics": ["العبادة", "النعمة", "الأمن"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/106.mp3"
+    },
+    {
+        "id": 107,
+        "name": "الماعون",
+        "ayahs": 7,
+        "type": "مكية",
+        "other_names": ["الماعون"],
+        "topics": ["الأخلاق", "العبادة", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/107.mp3"
+    },
+    {
+        "id": 108,
+        "name": "الكوثر",
+        "ayahs": 3,
+        "type": "مكية",
+        "other_names": ["الكوثر"],
+        "topics": ["النعمة", "العبادة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/108.mp3"
+    },
+    {
+        "id": 109,
+        "name": "الكافرون",
+        "ayahs": 6,
+        "type": "مكية",
+        "other_names": ["الكافرون"],
+        "topics": ["التوحيد", "العبادة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/109.mp3"
+    },
+    {
+        "id": 110,
+        "name": "النصر",
+        "ayahs": 3,
+        "type": "مدنية",
+        "other_names": ["النصر"],
+        "topics": ["النصر", "الفتح", "العبادة"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/110.mp3"
+    },
+    {
+        "id": 111,
+        "name": "المسد",
+        "ayahs": 5,
+        "type": "مكية",
+        "other_names": ["تبت"],
+        "topics": ["أبو لهب", "الجزاء"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/111.mp3"
+    },
+    {
+        "id": 112,
+        "name": "الإخلاص",
+        "ayahs": 4,
+        "type": "مكية",
+        "other_names": ["التوحيد"],
+        "topics": ["التوحيد", "صفات الله"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/112.mp3"
+    },
+    {
+        "id": 113,
+        "name": "الفلق",
+        "ayahs": 5,
+        "type": "مكية",
+        "other_names": ["الفلق"],
+        "topics": ["الاستعاذة", "الشرور"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/113.mp3"
+    },
+    {
+        "id": 114,
+        "name": "الناس",
+        "ayahs": 6,
+        "type": "مكية",
+        "other_names": ["الناس"],
+        "topics": ["الاستعاذة", "الوسواس"],
+        "audio": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/114.mp3"
+    }
+]
+}
