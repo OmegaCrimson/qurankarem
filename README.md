@@ -71,6 +71,15 @@ qurankarem-flask/
 - إطار Bootstrap للتصميم.
 
 ---
+## 📜 ترخيص نص القرآن الكريم
+
+نص القرآن الكريم المستخدم في هذا المشروع مأخوذ من [Tanzil.net](https://tanzil.net/)، وهو مشروع موثوق تمت مراجعته بعناية لضمان دقة النص القرآني.
+
+**الترخيص**: © مشروع Tanzil. يُسمح باستخدام النص لأغراض شخصية وتعليمية فقط. لا يُسمح بإعادة توزيعه لأغراض تجارية دون الحصول على إذن مسبق.
+
+لمزيد من التفاصيل، يُرجى زيارة [صفحة الترخيص في Tanzil](https://tanzil.net/docs/license).
+
+---
 
 # 📖 Quran Kareem with Sheikh Badr Al-Turki (GitHub Pages Site)
 
@@ -143,3 +152,13 @@ Feel free to use, modify, and share.
 - Audio recitations from [mp3quran.net](https://mp3quran.net).  
 - Fonts from [Google Fonts](https://fonts.google.com/specimen/Amiri).  
 - Bootstrap framework for styling.
+
+---
+
+## 📜 Quran Text License
+
+The Arabic Quran text used in this project is sourced from [Tanzil.net](https://tanzil.net/), a verified and carefully reviewed Quran text project.
+
+**License**: © Tanzil Project. The text is provided for personal and educational use only. Redistribution for commercial purposes is not allowed without permission.
+
+For more details, visit [Tanzil License](https://tanzil.net/docs/license).
