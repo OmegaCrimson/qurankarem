@@ -155,13 +155,6 @@
       "baseURL": "https://server8.mp3quran.net/bna/Almusshaf-Al-Mojawwad/"
     },
     {
-      "id": "qatami-hafs",
-      "reciter": "ناصر القطامي",
-      "riwaya": "حفص عن عاصم",
-      "name": "ناصر القطامي - حفص عن عاصم",
-      "baseURL": "https://server6.mp3quran.net/qtm/"
-    },
-    {
       "id": "jaleel-hafs",
       "reciter": "خالد الجليل",
       "riwaya": "حفص عن عاصم",
