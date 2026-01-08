@@ -48,10 +48,10 @@
       .then(data => {
         reciters = data.reciters;
         populateReciterSelect();
-        const saved = localStorage.getItem('selectedReciter') || reciters[0].id;
-        reciterSelect.value = saved;
-        updateReciterName(saved);
-        localStorage.setItem('selectedReciter', saved);
+        const savedName = localStorage.getItem('selectedReciterName') || reciters[0].reciter;
+        reciterSelect.value = savedName;
+        updateReciterName(savedName);
+        localStorage.setItem('selectedReciterName', savedName);
         return fetch('data.json');
       })
       .then(res => res.json())
@@ -61,35 +61,38 @@
       });
 
     function populateReciterSelect() {
-      reciters.forEach(r => {
+      const uniqueNames = [...new Set(reciters.map(r => r.reciter))];
+      uniqueNames.forEach(name => {
         const option = document.createElement('option');
-        option.value = r.id;
-        option.textContent = r.name;
+        option.value = name;
+        option.textContent = name;
         reciterSelect.appendChild(option);
       });
     }
 
-    function updateReciterName(id) {
-      const r = reciters.find(r => r.id === id);
-      reciterName.textContent = r?.reciter || '';
-      reciterFooter.textContent = r?.reciter || '';
+    function updateReciterName(name) {
+      reciterName.textContent = name;
+      reciterFooter.textContent = name;
     }
 
     reciterSelect.addEventListener('change', () => {
-      const selected = reciterSelect.value;
-      localStorage.setItem('selectedReciter', selected);
-      updateReciterName(selected);
+      const selectedName = reciterSelect.value;
+      localStorage.setItem('selectedReciterName', selectedName);
+      updateReciterName(selectedName);
       renderList(allSurahs);
     });
 
     function renderList(surahs) {
-      const reciter = reciterSelect.value;
+      const selectedName = reciterSelect.value;
+      const firstRiwaya = reciters.find(r => r.reciter === selectedName);
+      const reciterId = firstRiwaya?.id || reciters[0].id;
+
       list.innerHTML = '';
       surahs.forEach(surah => {
         const li = document.createElement('li');
         li.className = 'list-group-item';
         li.innerHTML = `
-          <a href="surah.html?id=${surah.id}&reciter=${reciter}" class="text-success fw-bold">
+          <a href="surah.html?id=${surah.id}&reciter=${reciterId}" class="text-success fw-bold">
             سورة ${surah.name} (${surah.ayahs} آية)
           </a>`;
         list.appendChild(li);
