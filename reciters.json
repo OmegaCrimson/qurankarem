@@ -1,0 +1,25 @@
+{
+  "reciters": [
+    {
+      "id": "bader-hafs",
+      "reciter": "بدر التركي",
+      "riwaya": "حفص عن عاصم",
+      "name": "بدر التركي - حفص عن عاصم",
+      "baseURL": "https://server10.mp3quran.net/bader/Rewayat-Hafs-A-n-Assem/"
+    },
+    {
+      "id": "husary-hafs",
+      "reciter": "الحصري",
+      "riwaya": "حفص عن عاصم",
+      "name": "الحصري - حفص عن عاصم",
+      "baseURL": "https://server13.mp3quran.net/husr/"
+    },
+    {
+      "id": "minshawi-hafs",
+      "reciter": "المنشاوي",
+      "riwaya": "حفص عن عاصم",
+      "name": "المنشاوي - حفص عن عاصم",
+      "baseURL": "https://server10.mp3quran.net/minsh/"
+    }
+  ]
+}
