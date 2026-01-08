@@ -29,7 +29,7 @@
     const params = new URLSearchParams(window.location.search);
     const surahId = parseInt(params.get('id'));
 
-    fetch('/data.json')
+    fetch('data.json')
       .then(res => res.json())
       .then(data => {
         const surah = data.surahs.find(s => s.id === surahId);
@@ -43,19 +43,18 @@
 
         const details = document.getElementById('surah-details');
         details.innerHTML = `
-          <li class="list-group-item">📖 الترتيب: ${surah.id}</li>
-          <li class="list-group-item">🔢 عدد الآيات: ${surah.ayahs}</li>
-          <li class="list-group-item">🏷️ نوعها: ${surah.type}</li>
-          <li class="list-group-item">📝 أسماء أخرى: ${surah.other_names.join(", ")}</li>
-          <li class="list-group-item">✨ الموضوعات: ${surah.topics.join(", ")}</li>
+          <li class="list-group-item">الترتيب: ${surah.id}</li>
+          <li class="list-group-item">عدد الآيات: ${surah.ayahs}</li>
+          <li class="list-group-item">نوعها: ${surah.type}</li>
+          <li class="list-group-item">أسماء أخرى: ${surah.other_names.join(", ")}</li>
+          <li class="list-group-item">الموضوعات: ${surah.topics.join(", ")}</li>
         `;
 
         const audio = document.getElementById('surah-audio');
-        audio.innerHTML = `<source src="${surah.audio}" type="audio/mp3">`;
+        audio.src = surah.audio;
       });
 
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
 </body>
 </html>
-
