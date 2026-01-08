@@ -233,3 +233,21 @@ a {
   --card-bg: #fff8f5;
   --link-color: #8d6e63;
 }
+.verses {
+  border-radius: 0.5rem;
+  line-height: 2.2;
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  color: var(--text-color);
+  background-color: var(--card-bg);
+}
+
+.verses .ayah {
+  margin-bottom: 1rem;
+}
+
+.verses .ayah span {
+  font-size: 0.9rem;
+  margin-left: 0.5rem;
+  color: var(--link-color);
+}
