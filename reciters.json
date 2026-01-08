@@ -15,6 +15,34 @@
       "baseURL": "https://server13.mp3quran.net/husr/"
     },
     {
+      "id": "husary-mujawwad",
+      "reciter": "الحصري",
+      "riwaya": "المصحف المجود",
+      "name": "الحصري - المصحف المجود",
+      "baseURL": "https://server13.mp3quran.net/husr/Almusshaf-Al-Mojawwad/"
+    },
+    {
+      "id": "husary-warsh",
+      "reciter": "الحصري",
+      "riwaya": "ورش عن نافع",
+      "name": "الحصري - ورش عن نافع",
+      "baseURL": "https://server13.mp3quran.net/husr/Rewayat-Warsh-A-n-Nafi/"
+    },
+    {
+      "id": "husary-douri",
+      "reciter": "الحصري",
+      "riwaya": "الدوري عن أبي عمرو",
+      "name": "الحصري - الدوري عن أبي عمرو",
+      "baseURL": "https://server13.mp3quran.net/husr/Rewayat-Aldori-A-n-Abi-Amr/"
+    },
+    {
+      "id": "husary-qalon",
+      "reciter": "الحصري",
+      "riwaya": "قالون عن نافع",
+      "name": "الحصري - قالون عن نافع",
+      "baseURL": "https://server13.mp3quran.net/husr/Rewayat-Qalon-A-n-Nafi/"
+    },
+    {
       "id": "minshawi-hafs",
       "reciter": "المنشاوي",
       "riwaya": "حفص عن عاصم",
