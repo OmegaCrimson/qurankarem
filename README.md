@@ -1,20 +1,23 @@
-# 📖 القرآن الكريم بصوت الشيخ بدر التركي (موقع GitHub Pages)
+# 📖 القرآن الكريم (موقع GitHub Pages)
 
 ![HTML](https://img.shields.io/badge/html-5-orange.svg)
 ![CSS](https://img.shields.io/badge/css-3-blue.svg)
 ![JavaScript](https://img.shields.io/badge/javascript-es6-yellow.svg)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-5.3-purple.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-published-success.svg)
-
-موقع ويب بسيط وأنيق يعرض جميع سور القرآن الكريم (١١٤ سورة) مع بيانات وصفية وتشغيل صوتي لتلاوة الشيخ **بدر التركي**.  
-تم نشره باستخدام **GitHub Pages** مع تصميم احترافي باستخدام **Bootstrap** وخط Amiri العربي.
+![Status](https://img.shields.io/badge/status-publishedوقع ويب بسيط وأنيق يعرض جميع سور القرآن الكريم (١١٤ سورة) مع بيانات وصفية وتشغيل صوتي لتلاوات متعددة بالروايات المختلفة.  
+تم تطويره باستخدام **HTML/CSS/JS** و **Bootstrap**، مع دعم تعدد الثيمات وتحسينات في تجربة القراءة.
 
 ---
 
 ## ✨ المميزات
 - 📚 قائمة كاملة بـ **١١٤ سورة** مع الاسم، عدد الآيات، النوع (مكية / مدنية)، الأسماء الأخرى، والموضوعات.
+- 🎧 دعم **تلاوات متعددة** لـ 17 قارئًا، كل قارئ مع رواياته الخاصة:
+  - أحمد طالب بن حميد، أحمد نعينع، بدر التركي، محمود علي البنا، عبدالباسط عبدالصمد، الحصري، حسن صالح، خالد الجليل، مشاري العفاسي، المنشاوي، مصطفى إسماعيل، هزاع البلوشي، سعود الشريم، عكاشة كميني، ناصر القطامي، ياسر الدوسري.
 - 🎵 مشغل صوت مدمج لكل سورة (ملفات MP3 من موقع mp3quran.net).
+- 🎨 دعم **أنظمة ألوان متعددة** (ثيمات) مريحة للعين، مع دعم الوضع الليلي.
+- 📖 إمكانية قراءة السورة مباشرة من صفحتها.
+- 🔍 شريط بحث باسم السورة لتسهيل الوصول.
 - 🌐 واجهة مستخدم احترافية باستخدام Bootstrap وخط Amiri العربي.
 - 🚀 يعمل مباشرة عبر GitHub Pages بدون أي إعدادات إضافية.
 
@@ -22,11 +25,11 @@
 
 ## 📂 هيكل المشروع
 ```
-qurankarem-flask/
+qurankarem/
 │
 ├── index.html            # الصفحة الرئيسية (قائمة السور)
 ├── surah.html            # صفحة تفاصيل السورة
-├── data.json             # بيانات السور وروابط الصوت
+├── data.json السور وروابط الصوت
 ├── Screenshots/          # لقطات الشاشة
 ├── LICENSE               # الرخصة
 └── README.md             # ملف التوثيق
@@ -36,18 +39,18 @@ qurankarem-flask/
 
 ## 🚀 طريقة الاستخدام
 1. افتح الموقع المنشور عبر GitHub Pages:  
-   [🔗 رابط الموقع](https://omegacrimson.github.io/qurankarem/index.html)
+   [🔗 رابط الموقع](https://omegacrimson.github.io/qurankarem)
 
-2. من الصفحة الرئيسية يمكنك تصفح جميع السور.  
-3. اضغط على أي سورة لفتح صفحة التفاصيل وتشغيل التلاوة الصوتية.
+2. من الصفحة الرئيسية يمكنك تصفح جميع السور واختيار القارئ والرواية.  
+3. اضغط على أي سورة لفتح صفحة التفاصيل وتشغيل التلاوة الصوتية وقراءة النص.
 
 ---
 
 ## 📸 لقطات شاشة
-- **الصفحة الرئيسية**: قائمة السور مع عدد الآيات.  
+- **الصفحة الرئيسية**: قائمة السور مع عدد الآيات والثيم المختار.  
 ![Homepage Screenshot](Screenshots/main.png)
 
-- **صفحة السورة**: بيانات وصفية + مشغل صوت.  
+- **صفحة السورة**: بيانات وصفية + مشغل صوت + نص السورة.  
 ![Surah Screenshot](Screenshots/3.png)
 
 ---
@@ -66,11 +69,12 @@ qurankarem-flask/
 ---
 
 ## 🙏 الشكر
-- التلاوات الصوتية من [mp3quran.net](https://mp3quran.net).  
-- الخطوط من [Google Fonts](https://fonts.google.com/specimen/Amiri).  
-- إطار Bootstrap للتصميم.
+- التلاوات الصوتية من [mp3quran.net](https://mp3quran.net)  
+- الخطوط من [Google Fonts](https://fonts.google.com/specimen/Amiri)  
+- إطار Bootstrap للتصميم
 
 ---
+
 ## 📜 ترخيص نص القرآن الكريم
 
 نص القرآن الكريم المستخدم في هذا المشروع مأخوذ من [Tanzil.net](https://tanzil.net/)، وهو مشروع موثوق تمت مراجعته بعناية لضمان دقة النص القرآني.
@@ -81,7 +85,7 @@ qurankarem-flask/
 
 ---
 
-# 📖 Quran Kareem with Sheikh Badr Al-Turki (GitHub Pages Site)
+# 📖 Quran Kareem (GitHub Pages Site)
 
 ![HTML](https://img.shields.io/badge/html-5-orange.svg)
 ![CSS](https://img.shields.io/badge/css-3-blue.svg)
@@ -90,22 +94,27 @@ qurankarem-flask/
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-published-success.svg)
 
-A simple and elegant **static website** that displays all 114 surahs of the Holy Qur’an with metadata and audio recitation by **Sheikh Badr Al-Turki**.  
-Published using **GitHub Pages**, styled with **Bootstrap** and the Amiri Arabic font.
+A simple and elegant **static website** that displays all 114 surahs of the Holy Qur’an with metadata, audio recitations, and full text.  
+Built with **HTML/CSS/JS**, styled using **Bootstrap**, and published via **GitHub Pages**.
 
 ---
 
 ## ✨ Features
 - 📚 Full list of **114 surahs** with names, ayah counts, type (Meccan / Medinan), other names, and topics.
+- 🎧 **Multiple reciters** supported, each with their own riwaya:
+  Ahmad Talib bin Humaid, Ahmad Nuaina, Badr Al-Turki, Mahmoud Ali Al-Banna, Abdulbasit Abdulsamad, Al-Husary, Hasan Saleh, Khalid Al-Jalil, Mishary Alafasy, Al-Minshawi, Mustafa Ismail, Hazzaz Al-Balooshi, Saud Al-Shuraim, Okasha Kameny, Nasser Al-Qatami, Yasser Al-Dosari.
 - 🎵 Integrated **audio player** for each surah (MP3 from mp3quran.net).
-- 🌐 Professional **Bootstrap UI** with Amiri Arabic font.
-- 🚀 Runs directly on GitHub Pages without extra setup.
+- 🎨 Multiple **visual themes** for comfort, including dark mode.
+- 📖 Full surah text displayed on each surah page.
+- 🔍 **Search bar** for quick surah lookup.
+- 🌐 Clean Bootstrap UI with Amiri Arabic font.
+- 🚀 Runs directly on GitHub Pages with no setup required.
 
 ---
 
 ## 📂 Project Structure
 ```
-qurankarem-flask/
+qurankarem/
 │
 ├── index.html            # Homepage listing all surahs
 ├── surah.html            # Surah detail page
@@ -118,19 +127,19 @@ qurankarem-flask/
 ---
 
 ## 🚀 Usage
-1. Open the published GitHub Pages site:  
-   [🔗 Live Site](https://omegacrimson.github.io/qurankarem/index.html)
+1. Visit the live site:  
+   [🔗 Live Site](https://omegacrimson.github.io/qurankarem)
 
-2. Browse all surahs from the homepage.  
-3. Click any surah to open its detail page and play the audio recitation.
+2. Browse surahs, choose a reciter and riwaya.  
+3. Click a surah to view its details, read the text, and listen to the recitation.
 
 ---
 
 ## 📸 Screenshots
-- **Homepage**: List of surahs with ayah counts.  
+- **Homepage**: Surah list with theme applied.  
 ![Homepage Screenshot](Screenshots/main.png)
 
-- **Surah Page**: Metadata + audio player.  
+- **Surah Page**: Metadata + audio player + full text.  
 ![Surah Screenshot](Screenshots/3.png)
 
 ---
@@ -149,15 +158,15 @@ Feel free to use, modify, and share.
 ---
 
 ## 🙏 Acknowledgements
-- Audio recitations from [mp3quran.net](https://mp3quran.net).  
-- Fonts from [Google Fonts](https://fonts.google.com/specimen/Amiri).  
-- Bootstrap framework for styling.
+- Audio recitations from [mp3quran.net](https://mp3quran.net)  
+- Fonts from [Google Fonts](https://fonts.google.com/specimen/Amiri)  
+- Bootstrap framework for styling
 
 ---
 
 ## 📜 Quran Text License
 
-The Arabic Quran text used in this project is sourced from [Tanzil.net](https://tanzil.net/), a verified and carefully reviewed Quran text project.
+The Arabic Quran text used in this project is sourced from [Tanzil.net](https://tanzil.net), a verified and carefully reviewed Quran text project.
 
 **License**: © Tanzil Project. The text is provided for personal and educational use only. Redistribution for commercial purposes is not allowed without permission.
 
